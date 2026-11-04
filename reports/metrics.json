@@ -1,0 +1,47 @@
+{
+  "threshold": 0.5,
+  "test_rows": 558,
+  "accuracy": 0.9731182795698925,
+  "precision_spam": 0.8846153846153846,
+  "recall_spam": 0.92,
+  "f1_spam": 0.9019607843137255,
+  "roc_auc": 0.9860041407867495,
+  "pr_auc_average_precision": 0.9609386285611777,
+  "classification_report": {
+    "legítimo (ham)": {
+      "precision": 0.9875,
+      "recall": 0.9813664596273292,
+      "f1-score": 0.9844236760124611,
+      "support": 483.0
+    },
+    "spam": {
+      "precision": 0.8846153846153846,
+      "recall": 0.92,
+      "f1-score": 0.9019607843137255,
+      "support": 75.0
+    },
+    "accuracy": 0.9731182795698925,
+    "macro avg": {
+      "precision": 0.9360576923076923,
+      "recall": 0.9506832298136646,
+      "f1-score": 0.9431922301630933,
+      "support": 558.0
+    },
+    "weighted avg": {
+      "precision": 0.9736714226633583,
+      "recall": 0.9731182795698925,
+      "f1-score": 0.9733399540099429,
+      "support": 558.0
+    }
+  },
+  "confusion_matrix_labels_ham_spam": [
+    [
+      474,
+      9
+    ],
+    [
+      6,
+      69
+    ]
+  ]
+}

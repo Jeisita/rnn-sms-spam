@@ -1,0 +1,11 @@
+label,message,true_label,spam_probability,predicted_label,predicted_confidence
+ham,Love it! Daddy will make you scream with pleasure! I am going to slap your ass with my dick!,legítimo,0.0023377782,legítimo,0.99766225
+ham,Nope thats fine. I might have a nap tho!,legítimo,0.004368948,legítimo,0.99563104
+ham,Remember to ask alex about his pizza,legítimo,0.00049498904,legítimo,0.999505
+ham,I've told you everything will stop. Just dont let her get dehydrated.,legítimo,0.004344867,legítimo,0.9956551
+ham,"Oh, my love, it's soooo good to hear from you. Omg I missed you so much today. I'm sorry your having problems with the provider but thank you for tming me",legítimo,0.0007726457,legítimo,0.99922734
+ham,What you doing?how are you?,legítimo,0.006343119,legítimo,0.9936569
+ham,"And stop wondering ""wow is she ever going to stop tm'ing me ?!"" because I will tm you whenever I want because you are MINE ... *laughs*",legítimo,0.011498644,legítimo,0.98850137
+ham,Dunno lei shd b driving lor cos i go sch 1 hr oni.,legítimo,0.00857659,legítimo,0.9914234
+ham,This message is from a great Doctor in India:-): 1) Do not drink APPY FIZZ. It contains Cancer causing age,legítimo,0.16312109,legítimo,0.8368789
+ham,Don't forget who owns you and who's private property you are ... And be my good boy always .. *passionate kiss*,legítimo,0.00032444575,legítimo,0.9996756
